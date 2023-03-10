@@ -1,2 +1,2 @@
 # Testing-school
-Stuff test and stuff
+Test stuff
